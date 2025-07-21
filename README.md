@@ -1,4 +1,5 @@
-
+# 💫 About Me:
+👨‍💻 Full Stack Developer | MERN Stack Enthusiast  <br>📫 Email: pvijay2004810@gmail.com<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/100804v) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vijayperugu8623) 
