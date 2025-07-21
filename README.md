@@ -1,5 +1,3 @@
-# 💫 About Me:
-## 👋 About Me<br><br>Hi, I'm **Vijay** – a final-year B.Tech student specializing in **Artificial Intelligence and Data Science** at VVIT. I'm passionate about **web development**, and I love building clean, user-friendly web applications.<br><br>💡 Currently exploring the full stack with **MERN (MongoDB, Express.js, React, Node.js)** and working on real-world projects to sharpen my skills.<br><br>🎯 My goal is to become a skilled software engineer who can solve real-world problems using scalable and modern technologies.<br><br>🌱 I’m also learning about **cloud services**, **DevOps**, and **open-source contributions** to build a strong foundation in backend infrastructure and deployment.<br><br>---<br><br>### 🛠️ Tech Stack<br>**Languages:** HTML, CSS, JavaScript, Java, Python  <br>**Frontend:** React, Tailwind CSS  <br>**Backend:** Node.js, Express.js  <br>**Database:** MySQL, MongoDB  <br>**Tools & Platforms:** Git, GitHub, VS Code, Postman, Render, Vercel  <br><br>---<br><br>### 📫 Connect with Me<br>- 📍 Location: Andhra Pradesh, India   <br>- 💌 Email: pvijay2004810@gmail.com<br><br>---<br>
 
 
 ## 🌐 Socials:
